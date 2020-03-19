@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5439-E194
+
+ Directory of C:\Users\kulalm\Desktop\Git Project
+
+03/19/2020  05:25 PM    <DIR>          .
+03/19/2020  05:25 PM    <DIR>          ..
+03/19/2020  05:25 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  133,159,755,776 bytes free
